@@ -7,4 +7,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 1.0.0 2019.08.21
 
-https://devblogs.microsoft.com/premier-developer/getting-started-with-node-js-angular-and-visual-studio-code/
+Creating first Angular 8 app following, https://devblogs.microsoft.com/premier-developer/getting-started-with-node-js-angular-and-visual-studio-code/
